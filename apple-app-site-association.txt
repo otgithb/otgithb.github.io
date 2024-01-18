@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "XBZYSV6RQA.ru.thunder-soft.hyperdev",
+            "paths": ["*"]
+        }]
+    }
+}
